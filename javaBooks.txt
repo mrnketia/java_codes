@@ -1,0 +1,100 @@
+1. Head first start with Java - Kathy Sierra and Bert Bates 
+	- classes
+	- threads 
+	- objects 
+	- collations
+	- Java interviews 
+
+2. Java: A beginner's Guide - Herbert Schildt (McGraw-Hill Education)
+	- Java SE 11
+
+3. Java for Dummies - Barry A. Burd 
+	- difference between a byte code and a source code 
+
+4. Effective Java - Joshua Bloch (Addison Wesley)
+	- concurrency 
+	- generics 
+	- methods  
+
+5. Head first design patterns - Eric Freeman  and Elisabeth Robson with Kathy Sierra and Bert Bates
+	- core design patterns 
+	- object oriented programming 
+
+
+
+Advance Java Books 
+1. Spring in Action - Craig Walls and Ryan Briedenbach 
+	- microservices 
+	- reactive programming 
+	- RESTful APIs
+	- Service discovery 
+	- Spring boot 
+
+2. Clean Java - Robert C. Martin (Pearson Education)
+
+3. Test Driven: TDD and Acceptance TDD for Java Developers - Lasse Koskela 
+	- Writing unique automation and testing program
+	- Testing Java EE Components - JSPs, Servlets, and Spring Controllers
+
+4. Test Driven Java Deveopment - Alex Garcia and Viktor Farcic 
+	- refactor old legacy code
+	- working with mocks 
+	- designing simple code
+	- utilizing behaviour-driven development 
+
+5. Thinking in Java  - Bruce Eckel 
+	- OOP Concepts 
+	- concurrency control 
+	- introduction to XML 
+	- design patterns 
+
+6. Core Java Volume I - Fundamentals - Cay Horstman (Prentice Hall)
+	- features of core java 
+	- exception handling 
+	- interfaces 
+	- lambda expression 
+	- Java SE 9, 10, 11
+
+7. Java: The Complete Reference - Herbert Schildt (McGraw Hill Education)
+	- basic syntax
+	- java 8 API 
+	- JavaBeans 
+	- Servlets
+	- Applets 
+	- Swing 
+
+8. Java Concurrency in Practice - Brian Goetz with Tim Peierls, Joshua Bloch, Joshua Bowbeer, David Holmes, and Doug Lea. 
+	- Concurrency 
+	- Multithreading 
+	- Java 5.0 
+
+9. Head First Object-Oriented Analysis Design - Brett D. McLaughlin, Gary Pollice, David West (Shroff/O'Reilly Media)
+
+10. Java Performance: The Definite Guide - Scott Oaks(Shroff/O'Reilly)
+	- Garbage collection
+	- JVM 
+	- Performance tuning
+	- Java Threading 
+	- Synchronization performance features 
+	- Java driven database application issues in Java EE, Java SE APIs 
+
+
+11. OCP Java SE 8 - Kathy Sierra, Bert Bates, Elizabeth Robson 
+
+12. Core Java An Integrated Approach (Black Book) - Dr. R. Nageswara Rao
+
+13. The Java Language Specification - James J. Gosling, Bill Joy, Jr. Steele, Guy L, Gilad Bracha, Alex Buckley, Guy L. Steele Jr. 
+	- lambda expression
+	- default methods 
+	- type annotations 
+	- repeating annotations 
+
+14. The Java Programming Language - Ken Arnold, James Gosling, David Holmes
+	- java.lang
+	- java.util
+	- java.io 
+	- generics 
+	- enums
+	- annotations
+	- assertions 
+	- regular expressions 
